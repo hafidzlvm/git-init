@@ -1,4 +1,4 @@
-# git-init
+# Git Init
 
 …or create a new repository on the command line
 ```
